@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <kern>
+    <version value="0"/>
+    <kernsubtable coverage="1" format="0">
+      <pair l="A" r="T" v="-35"/>
+      <pair l="A" r="V" v="-50"/>
+      <pair l="A" r="W" v="-40"/>
+      <pair l="A" r="Y" v="-50"/>
+      <pair l="A" r="quotedbl" v="-120"/>
+      <pair l="F" r="A" v="-80"/>
+      <pair l="F" r="AE" v="-110"/>
+      <pair l="F" r="c" v="-40"/>
+      <pair l="L" r="T" v="-35"/>
+      <pair l="L" r="V" v="-55"/>
+      <pair l="L" r="W" v="-45"/>
+      <pair l="L" r="Y" v="-50"/>
+      <pair l="L" r="quotedbl" v="-110"/>
+      <pair l="P" r="A" v="-65"/>
+      <pair l="P" r="AE" v="-95"/>
+      <pair l="T" r="A" v="-35"/>
+      <pair l="T" r="AE" v="-65"/>
+      <pair l="T" r="c" v="-60"/>
+      <pair l="T" r="comma" v="-80"/>
+      <pair l="V" r="A" v="-50"/>
+      <pair l="V" r="AE" v="-80"/>
+      <pair l="V" r="c" v="-40"/>
+      <pair l="V" r="comma" v="-120"/>
+      <pair l="W" r="A" v="-40"/>
+      <pair l="W" r="AE" v="-75"/>
+      <pair l="W" r="c" v="-30"/>
+      <pair l="W" r="comma" v="-110"/>
+      <pair l="Y" r="A" v="-50"/>
+      <pair l="Y" r="AE" v="-80"/>
+      <pair l="Y" r="c" v="-60"/>
+      <pair l="Y" r="comma" v="-110"/>
+      <pair l="quotedbl" r="A" v="-120"/>
+      <pair l="quotedbl" r="AE" v="-150"/>
+    </kernsubtable>
+  </kern>
+
+</ttFont>
